@@ -6,6 +6,7 @@ This is a solution to the [QR Code Component Challenge](https://www.frontendment
 
 ### Links
 
+- Watch me code this: [https://www.youtube.com/watch?v=gDURYJIcCyU](https://www.youtube.com/watch?v=gDURYJIcCyU)
 - Live Site URL: [https://qr-code-component-fm-1.vercel.app/](https://qr-code-component-fm-1.vercel.app/)
 - Solution on Frontend Mentor: [Add your solution link here]
 
